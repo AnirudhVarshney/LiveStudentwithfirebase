@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993852207807",
+    "firebase_url": "https://studentfire-f0a5a.firebaseio.com",
+    "project_id": "studentfire-f0a5a",
+    "storage_bucket": "studentfire-f0a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993852207807:android:2fccef7c50356b71",
+        "android_client_info": {
+          "package_name": "com.example.abhinav.studentfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993852207807-94d0j8m9j4p3n57ngh1icvbq24td12qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhinav.studentfirebase",
+            "certificate_hash": "C5DEEE94F199E6FA3571C69665F0E943965DE38A"
+          }
+        },
+        {
+          "client_id": "993852207807-bn9htfi0sn0pt385o8gdul3of3o5tj2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFE1aIydFN06cKl9PA6co2KJRSg54WDgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993852207807-bn9htfi0sn0pt385o8gdul3of3o5tj2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

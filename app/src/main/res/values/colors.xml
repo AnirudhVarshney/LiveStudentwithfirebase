@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D6ECC</color>
+    <color name="colorPrimaryDark">#1E7EC8</color>
+    <color name="colorAccent">#FFF</color>
+    <color name="colorTitleBarDark">#1D6ECC</color>
+    <color name="colorBlueBackground">#409AE0</color>
+    <color name="colorBackground">#409AE0</color>
+    <color name="colorButton">#e53935</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorOffWhite">#DDD</color>
+    <color name="colorPresent">#8BC34A</color>
+    <color name="colorAbsent">#F44336</color>
+    <color name="colorSoftText">#666</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorHoliday">#ffc107</color>
+    <color name="colorGrey">#C8C8C8</color>
+    <color name="menubackground">#F5F5F5</color>
+    <color name="toolbarcolor">#37474F</color>
+    <color name="MainThemeColor">#e86462</color>
+
+    <color name="colorGreen">#34A855</color>
+    <color name="colorRed">#EE6352</color>
+    <color name="colorYellow">#FCBE2F</color>
+
+    <color name="colorGreyBackground">#E8E8E8</color>
+    <color name="colorDarkerGreyBackground">#999</color>
+    <color name="your_color_res">#555</color>
+    <color name="colorRadioButton">#1D6ECC</color>
+</resources>
